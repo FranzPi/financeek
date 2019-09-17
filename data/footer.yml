@@ -1,6 +1,9 @@
-content: © KNAUD Media Network. All rights reserved. | We ♥ Squerz
+content: © KNAUD. All rights reserved. | We ♥ Squerz
 links:
   - new_window: true
     text: Made by franzpisto
     url: 'https://franzpisto.com'
+  - new_window: true
+    text: KNAUD Media Network
+    url: 'https://knaud.com'
 has_social: true
