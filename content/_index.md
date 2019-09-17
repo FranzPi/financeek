@@ -18,20 +18,21 @@ sections:
           - label: Get Started
             url: docs/index.html
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
-        title: Documentation
+          All you need to know about finance. From theory to practice, here you
+          can find all the basics you need to improve your financial knowledge.
+          This is the best place to start from.
+        title: Docs
       - actions:
           - label: View Posts
             url: blog/index.html
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-        title: Blog
+          News about finance, from fintech to cryptocurrencies through the
+          classical stock exchange. Only the most important news, from our point
+          of view.
+        title: News
       - actions:
           - label: Learn More
-            url: /style-guide.html
+            url: /showcase.html
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
