@@ -39,14 +39,6 @@ sections:
         title: Style Guides
     section_id: features
     type: featuresblock
-  - actions:
-      - label: Get Started
-        url: /docs/getting-started/installation.html
-    component: cta_block.html
-    section_id: cta
-    subtitle: This is an optional description for the call to action block.
-    title: The Title of The Call to Action Block
-    type: ctablock
 menu:
   main:
     name: Home
