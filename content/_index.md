@@ -31,13 +31,12 @@ sections:
           of view.
         title: News
       - actions:
-          - label: Learn More
+          - label: Discover more
             url: /showcase.html
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
-        title: Style Guides
+          Want to find the most important financial papers all in one place?
+          Here it is. Just click here and find what you want.
+        title: Papers
     section_id: features
     type: featuresblock
 menu:
