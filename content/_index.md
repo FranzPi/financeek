@@ -33,8 +33,8 @@ sections:
           - label: Discover more
             url: /showcase.html
         content: >-
-          Want to find the most important financial papers all in one place?
-          Here it is. Just click here and find what you want.
+          Want to find the most important financial papers and all in one place?
+          Here it is. Just click here and find papers from different authors.
         title: Papers
     section_id: features
     type: featuresblock
