@@ -20,7 +20,6 @@ sections:
         content: >-
           All you need to know about finance. From theory to practice, here you
           can find all the basics you need to improve your financial knowledge.
-          This is the best place to start from.
         title: Docs
       - actions:
           - label: View Posts
