@@ -1,5 +1,5 @@
 ---
-title: Welcome to Libris
+title: Welcome to Financeek
 menu:
   main:
     name: Docs
@@ -7,14 +7,14 @@ menu:
 layout: docs
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt id ante id varius. Fusce a gravida dolor.
+Here you will find all you need to know about finance. From theory to practice, all the basics you need to improve your financial knowledge.
 
 ***
 
-Sed vel arcu ac ante blandit ultricies quis eget justo. Donec et lacinia sapien, sit amet tempus ligula. Fusce et sagittis massa. Fusce mollis mollis dui eget sagittis. Suspendisse id nunc mauris.
+The documentation that you will find here is written by [Francesco Pistore](https://franzpisto.com), a student enrolled at a MSc Finance (in Venice, Italy).
 
-Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. Quisque mattis purus ut pharetra tincidunt. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus. 
+I hope you will enjoy my guides and how-tos.
 
-[Morbi ac vulputate enim](https://stackbit.com)
+Since this is an open-to-everyone website, please correct me if you find something wrong, from typos to big mistakes. Thank you so much.
 
-Maecenas metus justo, imperdiet vel velit et, iaculis consectetur risus. Etiam venenatis odio quis vulputate interdum. Nulla facilisi. Pellentesque nibh nibh, elementum sed mauris vel, commodo pretium magna.
+Francesco
