@@ -6,7 +6,7 @@ subtitle: >-
 img_path: images/5.jpg
 menu:
   main:
-    name: Blog
+    name: News
     weight: 3
 layout: blog
 ---
