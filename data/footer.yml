@@ -1,6 +1,6 @@
-content: '&copy; Stackbit-Libris. All rights reserved.'
+content: © KNAUD Media Network. All rights reserved. | We ♥ Squerz
 links:
-  - text: Made with Stackbit
-    url: 'https://www.stackbit.com'
-    new_window: true
+  - new_window: true
+    text: Made by franzpisto
+    url: 'https://franzpisto.com'
 has_social: true
