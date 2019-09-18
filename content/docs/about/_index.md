@@ -1,12 +1,16 @@
 ---
 title: About
 excerpt: >-
-  Libris is a Unibit theme created for project documentations. You can use it
-  for your project.
+  Financeek is the home for financial papers, documents and news about stocks, fintech, blockchain and more about financial word.
 layout: docs
 ---
 
-Ut quis consequat risus. Aenean ut porta ligula. Morbi id ante eu nisi suscipit maximus. Fusce ac congue quam. Nulla id elit facilisis, consequat magna vitae, scelerisque elit. Nullam lacinia elit in arcu scelerisque, ac volutpat neque sodales.
+You can use Financeek essentially for three things:
+- find documentation about finance
+- find financial papers
+- read some news about the financial word
+
+You can also contribute to this project sending your documentation, papers, news and other tips via our dedicated email service [mailto](mailto:send@financeek.com).
 
 ***
 
