@@ -16,12 +16,12 @@ layout: docs
   To be accepted, your files have to respect our basic requirements. 
 </div>
 
-| File extension | Required | Type | Description |
-| ---- | --- | --- | --- |
-| .pdf | Required | `enum` | The type of the model. Must be one of - `page`, `config`, `data`, `object` |
-| . | Required | `string` | The label of the model |
-| description | | `string` | Description of the model. Used by some CMS. |
-| fields | | `list` of `objects` | List of Field Models |
+| File | Extensions | Sources |
+| ---- | --- | --- |
+| **Documentation** | PDF | You have to proved sources |
+| **Papers** | PDF | `string` | You have to proved sources |
+| **News** | `link` or plain text | You have to proved sources |
+| **Other tips** | plain text | No need |
 
 **Why not start sending something today?**
 
