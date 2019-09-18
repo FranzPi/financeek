@@ -6,9 +6,9 @@ layout: docs
 ---
 
 You can use Financeek essentially for three things:
-* find documentation about finance
-* find financial papers
-* read some news about the financial word
++ find documentation about finance
++ find financial papers
++ read some news about the financial word
 
 You can also contribute to this project sending your documentation, papers, news and other tips via our dedicated email service [send@financeek.com](mailto:send@financeek.com).
 
