@@ -7,7 +7,7 @@ sections:
     component: hero_block.html
     content: >-
       The home of financial papers, documents and news about stocks, fintech,
-      blockchain and more about financial word.
+      blockchain and more about financial world.
     image: images/5.jpg
     section_id: hero
     title: Welcome to Financeek
