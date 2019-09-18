@@ -18,9 +18,9 @@ layout: docs
 
 | File | Extensions | Sources |
 | ---- | --- | --- |
-| **Documentation** | 'PDF' | You have to proved sources |
-| **Papers** | PDF | You have to proved sources |
-| **News** | `link` or plain text | You have to proved sources |
+| **Documentation** | `PDF` | You have to proved `sources` |
+| **Papers** | `PDF` | You have to proved `sources` |
+| **News** | `link` or plain text | You have to proved `sources` |
 | **Other tips** | plain text | No need |
 
 **Why not start sending something today?**
