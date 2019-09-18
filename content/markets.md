@@ -11,14 +11,14 @@ layout: page
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
   <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com" rel="noopener" target="_blank"><span class="blue-text">Market Data</span></a> by TradingView</div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com" rel="noopener" target="_blank"><span class="blue-text">Cryptocurrencies</span></a> by TradingView</div>
   <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-market-quotes.js" async>
   {
   "width": "100%",
   "height": "1200",
   "symbolsGroups": [
     {
-      "originalName": "Indices",
+      "originalName": "INDICES",
       "symbols": [
         {
           "displayName": "S&P 500",
@@ -48,7 +48,7 @@ layout: page
       "name": "Indices"
     },
     {
-      "originalName": "Commodities",
+      "originalName": "COMMODITIES",
       "symbols": [
         {
           "displayName": "E-Mini S&P",
@@ -78,7 +78,7 @@ layout: page
       "name": "Commodities"
     },
     {
-      "originalName": "Bonds",
+      "originalName": "BONDS",
       "symbols": [
         {
           "displayName": "Eurodollar",
@@ -108,7 +108,7 @@ layout: page
       "name": "Bonds"
     },
     {
-      "originalName": "Forex",
+      "originalName": "FOREX",
       "symbols": [
         {
           "name": "FX:EURUSD"
@@ -130,6 +130,23 @@ layout: page
         }
       ],
       "name": "Forex"
+    },
+    {
+      "name": "CRYPTOCURRENCIES",
+      "symbols": [
+        {
+          "name": "COINBASE:BTCUSD",
+          "displayName": "Bitcoin"
+        },
+        {
+          "name": "KRAKEN:ETHUSD",
+          "displayName": "Ethereum"
+        },
+        {
+          "name": "HUOBI:XRPUSDT",
+          "displayName": "Ripple"
+        }
+      ]
     }
   ],
   "locale": "en"
