@@ -7,6 +7,21 @@ menu:
 layout: page
 ---
 
+{{< tabs name="tab_with_md" >}}
+{{% tab name="Markdown" %}}
+This is **some markdown.**
+{{< note >}}
+It can even contain shortcodes.
+{{< /note >}}
+{{% /tab %}}
+{{< tab name="HTML" >}}
+<div>
+	<h3>Plain HTML</h3>
+	<p>This is some <i>plain</i> HTML.</p>
+</div>
+{{< /tab >}}
+{{< /tabs >}}
+
 {{< tabs tabTotal="5" tabID="1" tabName1="STOCKS" tabName2="INDICES" tabName3="COMMODITIES" tabName4="FOREX" tabName5="CRYPTOCURRENCIES" >}}
 {{< tab tabNum="1" >}}
 
