@@ -7,7 +7,7 @@ menu:
 layout: page
 ---
 
-{{% mktquotes %}}
+{{< mktquotes >}}
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
   <div class="tradingview-widget-container__widget"></div>
@@ -137,4 +137,4 @@ layout: page
   </script>
 </div>
 <!-- TradingView Widget END -->
-{{% /mktquotes %}}
+{{< /mktquotes >}}
