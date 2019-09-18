@@ -10,128 +10,102 @@ layout: page
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
   <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com" rel="noopener" target="_blank"><span class="blue-text">Market Data</span></a> by TradingView</div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/markets/stocks-usa/" rel="noopener" target="_blank"><span class="blue-text">Stock Quotes</span></a> by TradingView</div>
   <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-market-quotes.js" async>
   {
-  "width": "100%",
-  "height": "100%",
+  "locale": "en",
   "symbolsGroups": [
     {
-      "originalName": "Indices",
       "symbols": [
         {
-          "displayName": "S&P 500",
-          "name": "OANDA:SPX500USD"
+          "displayName": "Jpmorgan Chase & Co",
+          "name": "NYSE:JPM"
         },
         {
-          "displayName": "Nasdaq 100",
-          "name": "OANDA:NAS100USD"
+          "displayName": "Wells Fargo Co New",
+          "name": "NYSE:WFC"
         },
         {
-          "displayName": "Dow 30",
-          "name": "FOREXCOM:DJI"
+          "displayName": "Bank Amer Corp",
+          "name": "NYSE:BAC"
         },
         {
-          "displayName": "Nikkei 225",
-          "name": "INDEX:NKY"
+          "displayName": "Hsbc Hldgs Plc",
+          "name": "NYSE:HSBC"
         },
         {
-          "displayName": "DAX Index",
-          "name": "INDEX:DEU30"
+          "displayName": "Citigroup Inc",
+          "name": "NYSE:C"
         },
         {
-          "displayName": "FTSE 100",
-          "name": "OANDA:UK100GBP"
+          "displayName": "Mastercard Incorporated",
+          "name": "NYSE:MA"
         }
       ],
-      "name": "Indices"
+      "name": "Financial"
     },
     {
-      "originalName": "Commodities",
       "symbols": [
         {
-          "displayName": "E-Mini S&P",
-          "name": "CME_MINI:ES1!"
+          "displayName": "Apple",
+          "name": "NASDAQ:AAPL"
         },
         {
-          "displayName": "Euro",
-          "name": "CME:6E1!"
+          "displayName": "Google Inc",
+          "name": "NASDAQ:GOOGL"
         },
         {
-          "displayName": "Gold",
-          "name": "COMEX:GC1!"
+          "displayName": "Microsoft Corp",
+          "name": "NASDAQ:MSFT"
         },
         {
-          "displayName": "Crude Oil",
-          "name": "NYMEX:CL1!"
+          "displayName": "Facebook Inc",
+          "name": "NASDAQ:FB"
         },
         {
-          "displayName": "Natural Gas",
-          "name": "NYMEX:NG1!"
+          "displayName": "Oracle Corp",
+          "name": "NYSE:ORCL"
         },
         {
-          "displayName": "Corn",
-          "name": "CBOT:ZC1!"
+          "displayName": "Intel Corp",
+          "name": "NASDAQ:INTC"
         }
       ],
-      "name": "Commodities"
+      "name": "Technology"
     },
     {
-      "originalName": "Bonds",
       "symbols": [
         {
-          "displayName": "Eurodollar",
-          "name": "CME:GE1!"
+          "displayName": "Amazon Com Inc",
+          "name": "NASDAQ:AMZN"
         },
         {
-          "displayName": "T-Bond",
-          "name": "CBOT:ZB1!"
+          "displayName": "Alibaba Group Hldg Ltd",
+          "name": "NYSE:BABA"
         },
         {
-          "displayName": "Ultra T-Bond",
-          "name": "CBOT:UB1!"
+          "displayName": "At&t Inc",
+          "name": "NYSE:T"
         },
         {
-          "displayName": "Euro Bund",
-          "name": "EUREX:FGBL1!"
+          "displayName": "Wal-mart Stores Inc",
+          "name": "NYSE:WMT"
         },
         {
-          "displayName": "Euro BTP",
-          "name": "EUREX:FBTP1!"
+          "displayName": "China Mobile Limited",
+          "name": "NYSE:CHL"
         },
         {
-          "displayName": "Euro BOBL",
-          "name": "EUREX:FGBM1!"
+          "displayName": "Visa Inc",
+          "name": "NYSE:V"
         }
       ],
-      "name": "Bonds"
-    },
-    {
-      "originalName": "Forex",
-      "symbols": [
-        {
-          "name": "FX:EURUSD"
-        },
-        {
-          "name": "FX:GBPUSD"
-        },
-        {
-          "name": "FX:USDJPY"
-        },
-        {
-          "name": "FX:USDCHF"
-        },
-        {
-          "name": "FX:AUDUSD"
-        },
-        {
-          "name": "FX:USDCAD"
-        }
-      ],
-      "name": "Forex"
+      "name": "Services"
     }
   ],
-  "locale": "en"
+  "title": "Stocks",
+  "width": 700,
+  "height": 700
 }
   </script>
 </div>
