@@ -5,7 +5,7 @@ layout: docs
 ---
 
 <div class="note">
-  <strong>Note:</strong> This is the demo content for demonstration purpose only. The primary function of this content is to show you what this theme can do. There is a more detailed explanation in the <strong>Getting Started</strong> section.
+  <strong>Note:</strong> Documents and Papers are accepted only after a brief revision. If we receive a large amount of files, the approval time could be longer than usual.
 </div>
 
 ### Syntax highlighting
