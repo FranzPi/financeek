@@ -25,4 +25,4 @@ layout: docs
 
 **Why not start sending something today?**
 
-<a href="mailto:send@financeek.com" class="button">Send your files right now</a>
+<a href="mailto:send@financeek.com" class="button">What are you waiting for? Send your files right now!</a>
