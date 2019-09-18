@@ -1,5 +1,5 @@
 ---
-title: Features
+title: Requiremennts
 weight: 2
 layout: docs
 ---
