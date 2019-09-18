@@ -6,6 +6,7 @@ layout: docs
 ---
 
 You can use Financeek essentially for three things:
+
 + find documentation about finance
 + find financial papers
 + read some news about the financial word
