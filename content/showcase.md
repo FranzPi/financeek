@@ -9,7 +9,7 @@ menu:
   main:
     name: Papers
     parent: ''
-    weight: 4
+    weight: 3
 layout: showcase
 ---
 
