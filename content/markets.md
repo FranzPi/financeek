@@ -105,8 +105,8 @@ layout: page
     }
   ],
   "title": "Stocks",
-  "width": 770,
-  "height": 450
+  "width": "100%",
+  "height": 1000
 }
   </script>
 </div>
