@@ -23,3 +23,6 @@ menu:
   main: []
 disableKinds:
   - RSS
+enableRobotsTXT: true
+canonifyURLs: true
+post: "/posts/:title/"
