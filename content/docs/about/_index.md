@@ -10,7 +10,7 @@ You can use Financeek essentially for three things:
 - find financial papers
 - read some news about the financial word
 
-You can also contribute to this project sending your documentation, papers, news and other tips via our dedicated email service [mailto](mailto:send@financeek.com).
+You can also contribute to this project sending your documentation, papers, news and other tips via our dedicated email service [send@financeek.com](mailto:send@financeek.com).
 
 ***
 
