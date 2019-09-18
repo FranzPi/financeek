@@ -5,6 +5,7 @@ menu:
     name: Markets
     weight: 5
 layout: page
+---
 
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
@@ -135,4 +136,3 @@ layout: page
   </script>
 </div>
 <!-- TradingView Widget END -->
----
