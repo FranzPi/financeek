@@ -16,7 +16,7 @@ layout: docs
   To be accepted, your files have to respect our basic requirements. 
 </div>
 
-| File | Extensions | Sources |
+| File Type | Extensions | Sources |
 | ---- | --- | --- |
 | **Documentation** | `PDF` | You have to proved `sources` |
 | **Papers** | `PDF` | You have to proved `sources` |
