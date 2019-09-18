@@ -2,8 +2,5 @@ root_folder: /docs/
 sections:
   - about
   - getting-started
-  - ui-components
-  - manage-content
-  - tools
-  - faq
-  - community
+  - financial_markets
+  - technical_analysis
