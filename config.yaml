@@ -1,5 +1,5 @@
 title: Financeek
-baseURL: /
+baseURL: https://financeek.com/
 params:
   palette: violet
   palettes:
