@@ -14,7 +14,7 @@ layout: page
   <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-market-quotes.js" async>
   {
   "width": "100%",
-  "height": "1250",
+  "height": "1200",
   "symbolsGroups": [
     {
       "originalName": "INDICES",
