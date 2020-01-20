@@ -6,16 +6,18 @@ menu:
     weight: 5
 layout: page
 ---
-
 {{< rawhtml >}}
+
 <!-- TradingView Widget BEGIN -->
+
 <div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-container__widget"></div>\
+  <div class="tradingview-widget-copyright"><a href="https://it.tradingview.com" rel="noopener" target="_blank"><span class="blue-text">Dati di mercato</span></a> da TradingView</div>
   <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-market-quotes.js" async>
   {
   "width": "100%",
   "height": "1210",
-  "symbolsGroups": [
+  "symbolsGroups": \[
     {
       "originalName": "INDICES",
       "symbols": [
@@ -48,7 +50,7 @@ layout: page
     },
     {
       "originalName": "COMMODITIES",
-      "symbols": [
+      "symbols": \[
         {
           "displayName": "E-Mini S&P",
           "name": "CME_MINI:ES1!"
@@ -78,7 +80,7 @@ layout: page
     },
     {
       "originalName": "BONDS",
-      "symbols": [
+      "symbols": \[
         {
           "displayName": "Eurodollar",
           "name": "CME:GE1!"
@@ -108,7 +110,7 @@ layout: page
     },
     {
       "originalName": "FOREX",
-      "symbols": [
+      "symbols": \[
         {
           "name": "FX:EURUSD"
         },
@@ -132,7 +134,7 @@ layout: page
     },
     {
       "name": "CRYPTOCURRENCIES",
-      "symbols": [
+      "symbols": \[
         {
           "name": "COINBASE:BTCUSD",
           "displayName": "Bitcoin"
